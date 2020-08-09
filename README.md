@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Electronics? Computer Science? I guess I'm in between :sweat_smile:
+Electronics? Computer Science? A little bit of both should do the trick! :sweat_smile:
 
 ---
 
