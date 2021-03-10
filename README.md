@@ -11,6 +11,7 @@ Electronics? Computer Science? A little bit of both should do the trick! :sweat_
 * ARM
 * Digital design using HDL's
 * Embedded systems
+* Rust :crab:
 
 ---
 
