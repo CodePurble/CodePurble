@@ -20,7 +20,7 @@ Electronics? Computer Science? A little bit of both should do the trick! :sweat_
 * Digital Electronics
 * Computer Architecture
 * Arduino/ESP32
-* Linux _and_ GNU/Linux
+* Linux _and_ GNU/Linux ([dotfiles](https://github.com/CodePurble/dots))
 
 ---
 
