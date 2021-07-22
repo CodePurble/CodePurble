@@ -9,7 +9,7 @@ Electronics? Computer Science? A little bit of both should do the trick! :sweat_
 ### :seedling: Currently learning
 
 * ARM
-* Digital design using HDL's
+* Digital design using HDLs
 * Embedded systems
 * Rust :crab:
 
