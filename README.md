@@ -25,8 +25,8 @@ Electronics? Computer Science? A little bit of both should do the trick! :sweat_
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePurble&layout=compact&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePurble&layout=compact&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodePurble&count_private=true&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodePurble&count_private=true&show_icons=true&theme=onedark" />
 </a>
