@@ -10,6 +10,7 @@ Electronics? Computer Science? A little bit of both should do the trick! :sweat_
 
 * Wavelet Transforms
 * SystemVerilog
+* VLSI Design
 
 ---
 
@@ -18,7 +19,7 @@ Electronics? Computer Science? A little bit of both should do the trick! :sweat_
 * Digital Electronics, FPGAs
 * DSP
 * Computer Architecture
-* Arduino/ESP32
+* Embedded Systems
 * GNU+Linux ([dotfiles](https://github.com/CodePurble/dots))
 
 ---
