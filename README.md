@@ -8,19 +8,18 @@ Electronics? Computer Science? A little bit of both should do the trick! :sweat_
 
 ### :seedling: Currently learning
 
-* ARM
-* Digital design using HDLs
-* Embedded systems
-* Rust :crab:
+* Wavelet Transforms
+* SystemVerilog
 
 ---
 
 ### :telescope: Interests
 
-* Digital Electronics
+* Digital Electronics, FPGAs
+* DSP
 * Computer Architecture
 * Arduino/ESP32
-* Linux _and_ GNU/Linux ([dotfiles](https://github.com/CodePurble/dots))
+* GNU+Linux ([dotfiles](https://github.com/CodePurble/dots))
 
 ---
 
