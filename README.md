@@ -20,7 +20,7 @@ Electronics? Computer Science? A little bit of both should do the trick! :sweat_
 * DSP
 * Computer Architecture
 * Embedded Systems
-* GNU+Linux ([dotfiles](https://github.com/CodePurble/dots))
+* Linux ([dotfiles](https://github.com/CodePurble/dots))
 
 ---
 
