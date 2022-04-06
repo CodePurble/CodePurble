@@ -1,4 +1,4 @@
-# :desktop_computer: + :penguin: + :keyboard: - :computer_mouse:
+# :desktop_computer: + :penguin:
 
 ### Hi there 👋
 
