@@ -2,21 +2,13 @@
 
 ### Hi there 👋
 
-Electronics? Computer Science? A little bit of both should do the trick! :sweat_smile:
-
----
-
-### :seedling: Currently learning
-
-* Wavelet Transforms
-* SystemVerilog
-* VLSI Design
+Electronics? Computer Science? A little bit of both should do the trick!
 
 ---
 
 ### :telescope: Interests
 
-* Digital Electronics, FPGAs
+* Digital Electronics, FPGAs, ASICs
 * DSP
 * Computer Architecture
 * Embedded Systems
